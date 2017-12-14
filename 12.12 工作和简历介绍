@@ -55,9 +55,23 @@ S/4 HANA 是基于HANA的全新产品，支持用户通过移动设备获得SAP 
 
 什么是数据库技术？ 信息技术的核心，计算机辅助数据管理技术，负责组织和存储数据，高效的获取和处理数据。
 
+Javaskript: für dynamisches HTML in Webbrowsern entwickelt wurde,Benutzerinteraktionen,Inhalte zu verändern, 
+nachzuladen oder zu generieren, HTML und CSS zu erweitern.
+
+HTML 5: die fünfte Fassung der Hypertext Markup Language 
+
+面向对象编程：Verkapselung, Vererbung und Polymorphie
+
 什么是Foiri 和UI5？ Foiri是一整套用户交互系统，是一个前端交互系统，用户使用简单。 跟SAP GUI比较来说。基于HANA。Modern Design。
 SAP 和 openUI5 是一个具体的前端框架，基于HTML5. 自适应不同终端。 
 
+SAPUI5 (SAP User Interface for HTML 5) ist ein Toolkit und eine Sammlung von Bibliotheken von SAP, um Web-Anwendungen
+auf Basis von HTML 5 zu entwickeln.
+
+Open Data Protocol, kurz OData 
+
+SAP NetWeaver Gateway is a technology that provides a simple way to connect devices, environments and platforms to SAP 
+software based on market standards.
 
 你喜欢编程吗？ 有过什么经验？ 我曾经帮助Digital Labor，优化过一个网页版本，做到基本上与他们做的一个苹果APP的功能一样，他们做的一个APP就是通过摄像头
 测量物体的长度，并且可以保存和转发数据。除了不能测量物体长度，基本都可以实现。也是对工业4.0的一个探索吧。 
