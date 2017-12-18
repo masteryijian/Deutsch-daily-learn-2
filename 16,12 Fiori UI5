@@ -1,0 +1,12 @@
+准备
+：Java SE Development kti
+Eclipse
+SAP UI5 toolkit: in Eclipse new spftware install: http//tools.hana.ondemand.com/luna
+
+
+new application create
+
+new server define - Apache - Tomcat v7.0 - download
+
+tomcat local folder kopie und under workbench
+
